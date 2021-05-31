@@ -1,4 +1,4 @@
-# Changes in Employment / Unemployment Rates During the Pandemic (Covid-19) Period in Turkey
+# Changes in Employment / Unemployment Rates During the Pandemic (Covid-19) Period
 
 <p><br></p>
 <p><span style="font-size: 26px;"><strong><em>&bull;Introduction</em></strong></span></p>
