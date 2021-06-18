@@ -1,5 +1,8 @@
 # Changes in Employment / Unemployment Rates During the Pandemic (Covid-19) Period
 
+<p><strong><span style="font-size: 22px; font-family: Helvetica;">Video Link:</span></strong></p>
+<p><a href="https://drive.google.com/file/d/1Q8UKNkqfqhiqloCTWk3VjFNHVve63aip/view?usp=sharing"><span style="font-family: Helvetica;"><strong>https://drive.google.com/file/d/1Q8UKNkqfqhiqloCTWk3VjFNHVve63aip/view?usp=sharing</strong></span></a></p>
+
 <p><br></p>
 <p><span style="font-size: 26px;"><strong><em>&bull;Introduction</em></strong></span></p>
 <p><span style='color: rgb(0, 0, 0); font-family: Bernini, "Bernini Sans", "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;'><strong><em>Employment rates are defined as a measure of the extent to which available labour resources (people available to work) are being used. They are calculated as the ratio of the employed to the working age population. Employment rates are sensitive to the economic cycle, but in the longer term they are significantly affected by governments&apos; higher education and income support policies and by policies that facilitate employment of women and disadvantaged groups</em></strong></span></p>
